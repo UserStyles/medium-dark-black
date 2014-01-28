@@ -1,0 +1,26 @@
+@-moz-document domain("medium.com") {
+	html,body,div,p,section,article {
+		background-color: #000 !important;
+		color: #777 !important;
+	}
+
+	header div,footer div,.image div {
+		background-color: transparent !important;
+	}
+
+	h1,h2,h3,h4,h5,h6 {
+		color: #fff !important;
+	}
+
+	.notes-list-fade,.notes-list-fade-bottom {
+		background: inherit !important;
+	}
+
+	pre,code {
+		background-color: #222 !important;
+	}
+
+	a {
+		color: #777 !important;
+	}
+}
