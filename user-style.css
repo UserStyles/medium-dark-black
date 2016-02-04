@@ -23,4 +23,7 @@
 	a {
 		color: #777 !important;
 	}
+	blockquote {
+		color: rgb(255, 255, 255) !important;
+	}
 }
