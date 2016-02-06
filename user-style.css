@@ -26,4 +26,7 @@
 	blockquote {
 		color: rgb(255, 255, 255) !important;
 	}
+	body.is-withMagicUnderlines .markup--anchor {
+		text-decoration: underline !important;
+	}
 }
