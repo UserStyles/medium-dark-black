@@ -1,5 +1,5 @@
 @-moz-document domain("medium.com") {
-	html,body,div,p,section,article,strong,.metabar {
+	html,body,div,p,section,article,strong,.metabar.u-backgroundGrayLightest {
 		background-color: #000 !important;
 		color: #777 !important;
 	}
