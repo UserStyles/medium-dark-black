@@ -31,4 +31,7 @@
 		background-color: #222 !important;
 		color: #ddd !important;
 	}
+	.u-backgroundWhite {
+		background-color: #000 !important;
+	}
 }
