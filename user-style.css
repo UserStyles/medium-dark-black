@@ -1,5 +1,5 @@
 @-moz-document domain("medium.com") {
-	html,body,div,p,section,article {
+	html,body,div,p,section,article,strong,.metabar,.u-backgroundGrayLightest,blockquote {
 		background-color: #000 !important;
 		color: #777 !important;
 	}
@@ -22,5 +22,16 @@
 
 	a {
 		color: #777 !important;
+	}
+
+	.metabar--affixed {
+		background: rgba(0,0,0,0.9) !important;
+	}
+	input {
+		background-color: #222 !important;
+		color: #ddd !important;
+	}
+	.u-backgroundWhite {
+		background-color: #000 !important;
 	}
 }
